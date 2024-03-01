@@ -25,7 +25,7 @@ public class Railway {
 	void admin_log() throws Exception {
 		System.out.print("Enter password : ");
 		String ps = r.next();
-		if (ps.equals("toluene")) {
+		if (ps.equals("sandhya")) {
 			admin_mode();
 		} else {
 			System.out.println("Wrong password contact to the creator!!!!!!");
